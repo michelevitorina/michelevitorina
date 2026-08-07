@@ -1,7 +1,7 @@
 # 🌷 Hi, I'm Michele Vitorina!
 
 ## About me:
-🎯 I’m currently working in projects in Java;<br>💎 I’m currently learning task automation;<br>✨ Fun fact: besides coding, I also love books and board games.
+🎯 I’m working in projects in Java;<br>💎 I’m learning task automation;<br>✨ Fun fact: besides coding, I also love books and board games.
 
 
 ## 🌐 Socials:
